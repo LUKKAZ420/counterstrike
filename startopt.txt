@@ -1,0 +1,1 @@
+-high -tickrate 128 -novid -refresh 144 -w 1024 -h 768 -fullscreen -nojoy -nosync -noforcemparms -noforcemaccel -noaafonts -language lukkaz -console +exec lukKaz.cfg
