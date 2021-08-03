@@ -1,2 +1,2 @@
 # counterstrike
-just my configs and so for counterstrike :)
+just my configs for counterstrike :)
